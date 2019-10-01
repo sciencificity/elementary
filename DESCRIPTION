@@ -1,0 +1,12 @@
+Package: elementary
+Type: Package
+Title: Generates a rumour for us
+Version: 0.1.0
+Authors@R: person("Vebash", "Naidoo", 
+       email = "test@thatplace.co.za", role = c("aut", "cre"))
+Description: Elementary my dear, the functions generate some rumours for us
+    to use to win at the game of clue!
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.3.0)
